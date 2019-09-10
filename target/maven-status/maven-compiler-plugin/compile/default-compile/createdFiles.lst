@@ -1,0 +1,15 @@
+modelo/Pessoa.class
+modelo/Dependente.class
+validator/ValidadorNome.class
+controlador/ControladorDeDependentes.class
+controlador/ControladorDePessoa.class
+converter/ConvertDependente.class
+validator/ValidadorNascimeto.class
+converter/ConvertCPF.class
+validator/ValidadorCPF.class
+modelo/CPF.class
+interfaces/Pessoas.class
+jdbc/PessoasJDBC.class
+interfaces/Dependentes.class
+memoria/PessoasEmMemoria.class
+memoria/DependenteEmMemoria.class
